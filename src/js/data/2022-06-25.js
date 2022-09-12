@@ -1,4 +1,4 @@
-dataSetVersion = "2021-06-25"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2022-09-12"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -14,47 +14,53 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to remove women.",
     checked: false
   },
+  {
+    name: "Remove nonbinary",
+    key: "NB",
+    tooltip: "Check this to remove NB LIs.",
+    checked: false
+  },
 ];
 
 dataSet[dataSetVersion].characterData = [
   {
     name: "Alanna McKenna",
-    img: "KWgYIBI.png",
+    img: "y5H3wXU.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Altea Bellerose",
-    img: "Xcb81tu.png",
+    img: "G2oYV2e.jpg",
     opts: {
       girl: true
     }
   },
   {
     name: "Amara",
-    img: "O5OjlwD.png",
+    img: "EQVCcGu.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Andi Kim",
-    img: "lekjc0H.png",
+    img: "NMIvxEq.jpg",
     opts: {
       girl: true
     }
   },
   {
     name: "Arianna Nitida",
-    img: "NRN3GaM.png",
+    img: "UrUj8KB.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Abel Hawthorn",
-    img: "ytmMtTQ.png",
+    img: "njx3TC2.png",
     opts: {
       boy: true
     }
@@ -68,706 +74,707 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Aurora James",
-    img: "GHw0eWY.png",
+    img: "TArtQ9H.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Cecelia Visconti",
-    img: "lA1mmvk.png",
+    img: "qGkx6Gu.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Bram Galeborn",
-    img: "XAIajUf.png",
+    img: "4ExTEcm.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Emeril Everbloom",
-    img: "qiFbdZA.png",
+    img: "j2NwNEx.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Esperanza Gutierrez",
-    img: "4RnE12b.png",
+    img: "tNVyXH3.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Evina Arwel",
-    img: "wlJgtuq.png",
+    img: "P04CDwF.jpg",
     opts: {
       girl: true
     }
   },
   {
     name: "Fiona Eichen",
-    img: "lz4JCHu.png",
+    img: "bsJQ1SE.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Helena Klein",
-    img: "4Km7J2W.png",
+    img: "lVGJQcm.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Caleb North",
-    img: "08PHSmg.png",
+    img: "9YAPgYz.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Cassius Tarkhan",
-    img: "eWwQ19s.png",
+    img: "u4S2dWc.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Jessa Flexand",
-    img: "xEO8yuc.png",
+    img: "XYAkWsm.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Cerberus",
-    img: "jmIgSRm.png",
+    img: "VUz9mxt.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Juliette Optima",
-    img: "rymEqEa.png",
+    img: "ldybw1I.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Korin Reyes",
-    img: "meGIDKt.png",
+    img: "AacGUt6.jpg",
     opts: {
       girl: true
     }
   },
   {
     name: "Lavinia Le Guin",
-    img: "IQVHPrl.png",
+    img: "ofrRmxs.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Lexi Sweetwater",
-    img: "8HKx10I.png",
+    img: "UHRAe5V.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Liora Skyheart",
-    img: "gcc0GZ1.png",
+    img: "Khv9oPt.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Chadwick Lin",
-    img: "U5fcrf6.png",
+    img: "m1SZkN5.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Lorelei Linden",
-    img: "fVix3F0.png",
+    img: "20fqAda.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Mackenzie Hunt",
-    img: "iyAo2KZ.png",
+    img: "eTWliMM.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Madison Lane",
-    img: "5LwJADr.png",
+    img: "Jc4RcTP.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Chance Valentine",
-    img: "IvrkYCn.png",
+    img: "bSR3bSn.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Medusa",
-    img: "v1gWlyK.png",
+    img: "yksQF65.jpg",
     opts: {
       girl: true
     }
   },
   {
     name: "Nahara Byrd",
-    img: "pC2bGPG.png",
+    img: "zD8p16T.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Nora Le Fay",
-    img: "ZYYfLyE.png",
+    img: "ihcviaj.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Chimera",
-    img: "60g97ay.png",
+    img: "NdnJctK.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Nova",
-    img: "OEpkB9E.png",
+    img: "ry7uLIo.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Arin Langdon",
-    img: "BG5dxEm.png",
+    img: "r7m8bfc.jpg",
     opts: {
-      
+      NB: true
     }
   },
   {
     name: "Nysa Dawnvale",
-    img: "4MFYKhy.png",
+    img: "7SnXFUS.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Cliff Conway",
-    img: "3zkKfkz.png",
+    img: "SABVBh1.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Onyx Wren",
-    img: "2L1lEwr.png",
+    img: "v30yQiM.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Clyde Hughes",
-    img: "5hCj2c7.png",
+    img: "spwvoxj.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Darius Ricci",
-    img: "ODV7JU2.png",
+    img: "fZjFtHP.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Diego Escalona",
-    img: "m1cAXCq.png",
+    img: "q5vj9an.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Donovan Gallagher",
-    img: "6DnLScz.png",
+    img: "GyAbXsV.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Piama",
-    img: "FrZIx77.png",
+    img: "gMx87hN.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Revi Pel",
-    img: "Pk2RI1r.png",
+    img: "7forChD.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Runa Amberthorne",
-    img: "1xbvwi4.png",
+    img: "mU4cho6.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Duke Vale",
-    img: "bMXOpxE.png",
+    img: "HIQlh2U.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Alex Cyprin",
-    img: "fS8rzqK.png",
+    img: "NUeGLme.png",
     opts: {
+      NB: true
     }
   },
   {
     name: "Serena Zhang",
-    img: "N5m3P4T.png",
+    img: "NVrSg3u.jpg",
     opts: {
       girl: true
     }
   },
   {
     name: "Edgar Morton",
-    img: "0hqNu2R.png",
+    img: "fQbz0CB.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Sofia Martinez",
-    img: "yCYseru.png",
+    img: "eqbnyWT.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Vanessa Helsing",
-    img: "xbJYhxe.png",
+    img: "7yy0awL.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Vivienne Tang",
-    img: "dnvVrNG.png",
+    img: "vpzcHHp.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Xenia",
-    img: "dTdm1Pr.png",
+    img: "qh5CF0P.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Elliot Graham",
-    img: "8ImxShR.png",
+    img: "GI5fleO.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Yvette Holte",
-    img: "4gSgzbo.png",
+    img: "1YX8SPv.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Ellis Cooper",
-    img: "3zICmGc.png",
+    img: "xeiRiAJ.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Zhora Leonis",
-    img: "FkwiyyM.png",
+    img: "0OWtiQp.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Emilio Espinoza",
-    img: "1NHzHmB.png",
+    img: "Za9Jnhg.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Ezra Wolf",
-    img: "kyB4ljo.png",
+    img: "JIFHpbk.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Zoe Banks",
-    img: "Ak1TsSv.png",
+    img: "2Gik7I1.png",
     opts: {
       girl: true
     }
   },
   {
     name: "Felix Grant",
-    img: "p4vnrLC.png",
+    img: "DyaE4gA.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Gerald O'Fallon",
-    img: "VleAmXA.png",
+    img: "pbVSRGW.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Hades",
-    img: "getaVcN.png",
+    img: "DWiQ8Zd.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Hydra",
-    img: "RPwONpc.png",
+    img: "zmYBGCq.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Irving Monroe",
-    img: "WLuAyxi.png",
+    img: "KcFxlty.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Iseul Idreis",
-    img: "O4yJhcd.png",
+    img: "ZQGhMsl.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Jaxon Silva",
-    img: "rPCfCex.png",
+    img: "ezkhMYE.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Jett Slater",
-    img: "paIy8aR.png",
+    img: "3iB4Qvn.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Joaquin Ortega",
-    img: "XsIvVaj.png",
+    img: "8IJy7V9.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Antares Fairchild",
-    img: "tIGI1Ml.png",
+    img: "xKjrbwq.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Galen",
-    img: "Q578oYo.png",
+    img: "HSITZUS.png",
     opts: {
+      NB: true
     }
   },
   {
     name: "JD",
-    img: "Q578oYo.png",
+    img: "z44m3ss.png",
     opts: {
+      NB: true
     }
   },
   {
     name: "Antonio Vasquez",
-    img: "wVTsocX.png",
+    img: "3z3eId4.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Arthur Singh",
-    img: "PKdceUr.png",
+    img: "pW7XJ02.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Ash Winters",
-    img: "xBuWJ6a.png",
+    img: "hgLKsXP.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Astraeus",
-    img: "36KSyYK.png",
+    img: "lwjbkvr.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Atlas Molniya",
-    img: "Nn3rMiJ.png",
+    img: "uGZFfaJ.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "August Falke",
-    img: "bkGa5pw.png",
+    img: "zSitRPN.png",
     opts: {
-      region: ['id'],
       boy: true
     }
   },
   {
     name: "Julius Harper",
-    img: "QyDVOVc.png",
+    img: "mcPZQsH.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Leon Kwan",
-    img: "3UvLz85.png",
+    img: "8wr4RAr.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Logan Owens",
-    img: "ojHBiCM.png",
+    img: "zsF56hm.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Lucas Charming",
-    img: "P2jgAun.png",
+    img: "0dmMfy6.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Lucien Rivercrest",
-    img: "EXCB9W3.png",
+    img: "ZmLS7Cz.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Lyris",
-    img: "zxNjN1M.png",
+    img: "kaOJZ0L.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Malakai Collins",
-    img: "nPfoeBD.png",
+    img: "HC6C2db.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Mateo Estrada",
-    img: "iBBhLxo.png",
+    img: "XknEc3n.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Maxime Okun",
-    img: "LjNw8i7.png",
+    img: "gEzx1j1.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Milo Starlash",
-    img: "F7PE1tm.png",
+    img: "TPihLnY.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Nathan Cayde",
-    img: "5dZDAa0.png",
+    img: "26KRNAe.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Nav Hexan",
-    img: "VIlXtL2.png",
+    img: "EaegakA.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Neil Dresner",
-    img: "iOYxLTP.png",
+    img: "GCtR55e.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Nikolai Stirling",
-    img: "6o5YV3M.png",
+    img: "1HoSjoH.png",
     opts: {
       boy: true
     }
   }, 
   {
     name: "Orion Akatsuki",
-    img: "nwYZmv9.png",
+    img: "B5IIPWc.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Raffaele Marzano",
-    img: "VEp6IBH.png",
+    img: "tQB9QJn.png",
     opts: {
-      region: ['en'],
       boy: true
     }
   },
   {
     name: "Razi Nassar",
-    img: "K71FMrJ.png",
+    img: "g78Zld7.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Reiner Wolfson",
-    img: "95rZJQV.png",
+    img: "F6Ns3Kt.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Remy Chevalier",
-    img: "Rj5S2uG.png",
+    img: "Y8CnNlP.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Renzei Feng",
-    img: "GwiNApW.png",
+    img: "3N0ON1Y.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Rion Moon",
-    img: "XahlHaP.png",
+    img: "TMRlAJp.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Roman Tarrenglade",
-    img: "RERbYGJ.png",
+    img: "Y68839M.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Saerys",
-    img: "el39OLA.png",
+    img: "fBYBZG3.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Sascha Orosco",
-    img: "mZT1oRY.png",
+    img: "2YQ4oup.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Sevastian",
-    img: "GwiNApW.png",
+    img: "gvBLWtr.png",
     opts: {
       boy: true
     }
   },
   {
     name: "TK Yoon",
-    img: "GwiNApW.png",
+    img: "hnKltAD.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Tyrian Aquila",
-    img: "XahlHaP.png",
+    img: "qPGMmYK.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Vince Moretti",
-    img: "RERbYGJ.png",
+    img: "DwuCycb.png",
     opts: {
       boy: true
     }
   },
   {
     name: "Yoshimitsu Valentine",
-    img: "el39OLA.png",
+    img: "QBwDQx8.jpg",
     opts: {
       boy: true
     }
   },
   {
     name: "Zain Blackwood",
-    img: "mZT1oRY.png",
+    img: "aaZwhv5.jpg",
     opts: {
       boy: true
     }
